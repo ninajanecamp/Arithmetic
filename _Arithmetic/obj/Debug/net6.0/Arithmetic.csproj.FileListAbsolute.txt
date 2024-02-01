@@ -1,0 +1,5 @@
+D:\nina\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.AssemblyReference.cache
+D:\nina\Arithmetic\obj\Debug\net6.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\nina\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfoInputs.cache
+D:\nina\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfo.cs
+D:\nina\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.CoreCompileInputs.cache

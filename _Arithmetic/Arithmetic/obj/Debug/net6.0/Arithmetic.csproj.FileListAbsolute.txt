@@ -1,0 +1,15 @@
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.AssemblyReference.cache
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.GeneratedMSBuildEditorConfig.editorconfig
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfoInputs.cache
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.AssemblyInfo.cs
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.csproj.CoreCompileInputs.cache
+D:\nina\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.exe
+D:\nina\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.deps.json
+D:\nina\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.runtimeconfig.json
+D:\nina\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.dll
+D:\nina\Arithmetic\Arithmetic\bin\Debug\net6.0\Arithmetic.pdb
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.dll
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\refint\Arithmetic.dll
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.pdb
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\Arithmetic.genruntimeconfig.cache
+D:\nina\Arithmetic\Arithmetic\obj\Debug\net6.0\ref\Arithmetic.dll
